@@ -1,0 +1,5 @@
+_assets/
+webfonts/
+.DS_Store
+*.woff
+*.woff2
