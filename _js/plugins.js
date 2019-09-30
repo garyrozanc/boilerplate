@@ -22,4 +22,4 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-// @codekit-append "/vendor/devhelpers.js";
+// This is here as a sample: @codekit-append "/vendor/devhelpers.js";
