@@ -22,4 +22,3 @@
 }());
 
 // Place any jQuery/helper plugins in here.
-// This is here as a sample: @ remove_this_and_spaces_on_either_side codekit-append "/vendor/devhelpers.js";
