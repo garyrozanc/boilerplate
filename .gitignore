@@ -2,3 +2,9 @@ _assets
 .DS_Store
 *.woff
 *.woff2
+/webfonts
+.sass-cache
+.codekit-cache
+/.jekyll-cache
+.jekyll-metadata
+db.php
